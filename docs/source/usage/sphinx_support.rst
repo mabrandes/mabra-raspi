@@ -32,3 +32,32 @@ Adding line numbers :<setting>:
 
    d = 1\frac{s}{2}
 
+
+functions: 
+
+.. function:: pyfunc()
+
+   Describes a Python function.
+
+Reference to :func:`pyfunc`.
+
+.. py:function:: spam(eggs)
+                 ham(eggs)
+
+   Spam or ham the foo.
+
+Manually describing function
+
+.. py:function:: lumache.get_random_ingredients(kind=None)
+
+   Return a list of random ingredients as strings.
+
+   :param kind: Optional "kind" of ingredients.
+   :type kind: list[str] or None
+   :return: The ingredients list.
+   :rtype: list[str]
+
+.. .. currentmodule:: test
+.. autofunction:: src.test.diff
+
+   you can use the ``src.test.diff()`` function:

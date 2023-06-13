@@ -16,8 +16,9 @@ Private Projects
 ==================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :numbered:
 
+   usage/readthedocs_support
    usage/sphinx_support
    usage/raspi_support

@@ -27,3 +27,8 @@ formats:
 python:
    install:
    - requirements: docs/requirements.txt
+   #key for autodoc
+   - method: pip
+    path: .
+    extra_requirements:
+    - docs
