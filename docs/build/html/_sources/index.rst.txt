@@ -6,20 +6,17 @@
 Welcome to mabra-raspi's documentation!
 =======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+here are some useful references
+  * :ref:`ref_install`
 
+or simply add it to the text: :ref:`ref_install`. 
+Check out the :doc:`usage/sphinx_support` section for further information.
 
-Indices and tables
+Private Projects
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 .. toctree::
    :maxdepth: 2
 
-   sphinx_support
-   raspi_support
+   usage/sphinx_support
+   usage/raspi_support
