@@ -10,6 +10,8 @@ Welcome to mabra-raspi's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   sphinx_support
+   raspi_support
 
 
 Indices and tables
@@ -19,10 +21,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 
-
-   sphinx_support
-   raspberrypi_support
